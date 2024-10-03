@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "VControl"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c711d761-6195-4b0c-99cf-367b01e66834"
+  }
+}
