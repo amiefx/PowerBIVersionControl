@@ -27,6 +27,15 @@
       "name": "498d7d50698a864375f7",
       "visualContainers": [
         {
+          "config": "{\"name\":\"30bec67e076c2cdaf2c0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":195.3493917758442,\"y\":269.7682076904515,\"z\":1,\"width\":861.6303530113128,\"height\":182.55865779052107,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"TableMeasure.Report Title\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"TableMeasure\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"Report Title\"},\"Name\":\"TableMeasure.Report Title\",\"NativeReferenceName\":\"Report Title\"}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 182.56,
+          "width": 861.63,
+          "x": 195.35,
+          "y": 269.77,
+          "z": 1.00
+        },
+        {
           "config": "{\"name\":\"89b15d2a3982bf3a27f8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":194.8548551902042,\"y\":34.30543225179652,\"z\":0,\"width\":861.7524581651285,\"height\":182.50489957955745,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"TableMeasure.Report Title\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"TableMeasure\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"Report Title\"},\"Name\":\"TableMeasure.Report Title\",\"NativeReferenceName\":\"Report Title\"}]},\"drillFilterOtherVisuals\":true}}",
           "filters": "[]",
           "height": 182.50,
